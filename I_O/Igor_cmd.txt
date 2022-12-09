@@ -1,0 +1,1 @@
+IGORWAVES/T	igorCmdBEGIN	"filename \\\\192.168.33.8\\Data\\2020\\Sep\\03_09_2020\\03_09_202015.PrX"	"step 0.05"	"ch_start 0"	"ch_end 2000"	"photon 0"ENDX SetScale/P x 0,1,"", igorCmd; SetScale y 0,0,"", igorCmd
